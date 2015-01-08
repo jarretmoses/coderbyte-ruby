@@ -15,4 +15,4 @@ end
 def get_index(alph,letter)
   alph.index(letter)+1 if alph.index(letter)
 end
-
+puts LetterChanges("hello*3")
